@@ -1,0 +1,23 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "description": "",
+  "bin": {
+    "mynpm": "./index.js"
+  },
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^9.0.0",
+    "fs-extra": "^10.0.1",
+    "json-format": "^1.0.1",
+    "shelljs": "^0.8.5"
+  }
+}
