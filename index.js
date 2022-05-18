@@ -154,3 +154,4 @@ function ensurePackageJsonExist() {
     program.help();
   }
 }
+console.log('master1')
