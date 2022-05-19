@@ -156,6 +156,7 @@ function ensurePackageJsonExist() {
 }
 console.log('master1')
 console.log('master2')
+console.log('master3')
 // 
 console.log('feature1')
 console.log('feature2')
